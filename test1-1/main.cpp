@@ -40,7 +40,7 @@ private:
 int Cpoint::value = 0;
 int Cpoint::num = 0;
 
-//test
+//test//
 int main()
 {
 	Cpoint c(1,2);
