@@ -23,7 +23,7 @@ private:
 int Cpoint::value = 0;
 int Cpoint::num = 0;
 
-
+//test
 int main()
 {
 	Cpoint c;
